@@ -2,6 +2,8 @@
 Bu repo Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası bir adet index.html dosyası bulunuyor.
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
+![image](https://user-images.githubusercontent.com/115086484/213548118-09ffbb71-fd83-442e-9cc3-30affc51c430.png)
+
 
 ```
 git clone https://github.com/Kaanozt01/kodluyoruzilkrepo.git
